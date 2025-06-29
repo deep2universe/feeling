@@ -3,6 +3,10 @@ This is my contribution to the one-shot challenge in the World's Largest Hackath
 
 [https://worldslargesthackathon.devpost.com](https://worldslargesthackathon.devpost.com)
 
+Workflow:  
+![](assets/workflow.png)
+
+
 # video
 https://youtu.be/b2wrA0dRBLw?si=hnfWq7cgkjFCpbk7  
 
