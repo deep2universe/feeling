@@ -19,7 +19,7 @@ Unfortunately, I can't see it yet. Here is the URL of the subdomain. [http://fee
 
 
 # bolt.new url
-https://bolt.new/~/sb1-iheeh24p
+https://bolt.new/~/sb1-iheeh24p  
 https://stackblitz.com/edit/sb1-iheeh24p?file=index.html
 
 # images
